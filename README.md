@@ -1,22 +1,10 @@
 <h1 align="center">Hi I'm Lance! 👋</h1>
 
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=2&alignment=center&bgSolidColor=CCCCCC&bgStartColor=CCCCCC&bgEndColor=999999&bgGradientDirection=horizontal" alt="Divider" />
-</div>
-
 ## about me ??!! 👤
-
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=2&alignment=center&bgSolidColor=CCCCCC&bgStartColor=CCCCCC&bgEndColor=999999&bgGradientDirection=horizontal" alt="Divider" />
-</div>
 
 im a current first year computer science student still figuring things out. 
 
 ## languages  🖥️
-
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=2&alignment=center&bgSolidColor=CCCCCC&bgStartColor=CCCCCC&bgEndColor=999999&bgGradientDirection=horizontal" alt="Divider" />
-</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,css,html,cpp&perline=10&theme=dark" />
@@ -27,10 +15,6 @@ im a current first year computer science student still figuring things out.
 </div>
 
 ## projects  🛠️
-
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=2&alignment=center&bgSolidColor=CCCCCC&bgStartColor=CCCCCC&bgEndColor=999999&bgGradientDirection=horizontal" alt="Divider" />
-</div>
 
 coming soon !!
 
